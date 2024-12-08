@@ -1,1 +1,4 @@
 
+To Download the datasets, go to 
+https://cde.ucr.cjis.gov/
+Using the crime data explorer, we can download the Nibrs data. Before downloading the data, you need to raise the api request access.
