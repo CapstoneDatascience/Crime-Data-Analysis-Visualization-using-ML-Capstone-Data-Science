@@ -16,7 +16,7 @@ This repository contains the implementation of a machine learning project aimed 
 - Libraries: scikit-learn, pandas, NumPy, matplotlib, seaborn
 
 ## Contributors
-- Naga Rajitha Bhogapadi
+- Naga Rajitha Bhogadi
 - Tribhuvan Reddy Kothapally
 - Mentor: Dr. Samira Zad
 - Instructor: Dr. Ananda Mondal
